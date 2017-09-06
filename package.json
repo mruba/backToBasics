@@ -1,0 +1,30 @@
+{
+  "name": "hacker-rank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bear.js",
+  "dependencies": {
+    "express": "^4.15.4",
+    "hapi": "^16.5.0",
+    "jest": "^20.0.4",
+    "strftime": "^0.10.0",
+    "through2": "^2.0.3",
+    "through2-map": "^3.0.0"
+  },
+  "devDependencies": {
+    "jest": "^20.0.4"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mruba/backToBasics.git"
+  },
+  "author": "miguel rubalcava",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mruba/backToBasics/issues"
+  },
+  "homepage": "https://github.com/mruba/backToBasics#readme"
+}
