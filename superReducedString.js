@@ -47,6 +47,6 @@ function callFunction(s){
   return superReduce(s)
 }
 
-superReduce('aaabccddd')
+// superReduce('aaabccddd')
 
-// module.exports = superReduce
+module.exports = superReduce
